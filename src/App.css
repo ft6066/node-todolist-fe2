@@ -86,3 +86,20 @@ button {
   color: #ffffff;
   border: none;
 }
+
+.author {
+  text-align: center;
+}
+
+.log-out {
+  border: none;
+  margin: 10px 0;
+  font-weight: 900;
+  border-radius: 7px;
+  border: 1px solid lightblue;
+}
+
+.log-out:hover {
+  background-color: white;
+  color: lightblue;
+}
